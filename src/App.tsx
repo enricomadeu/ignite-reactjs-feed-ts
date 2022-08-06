@@ -1,6 +1,4 @@
-import { Header } from './components/Header'; // Import the Header component
-import { Post } from './components/Post'; // Import the Post component
-import { Sidebar } from './components/Sidebar'; // Import the Sidebar component
+import { Header, Post, Sidebar } from './components'; // Import the Header component
 
 import styles from './App.module.css'; // Import the stylesheet
 
